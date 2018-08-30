@@ -1,5 +1,8 @@
 Free resources
 
+## Mathematics
+- [ Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
+
 ## Deep Learning
 - [The Matrix Calculus You Need For Deep Learning](http://explained.ai/matrix-calculus/index.html)
 - [The elements of statistical learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
