@@ -13,3 +13,7 @@ Free resources
 
 ## Machine Learning
 - [Machine Learning tips and tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html)
+- [Machine Learning - Tom M. Mitchell](https://www.cs.ubbcluj.ro/~gabis/ml/ml-books/McGrawHill%20-%20Machine%20Learning%20-Tom%20Mitchell.pdf)
+
+## Learning Tools
+- [GAN lab visualization tool](https://poloclub.github.io/ganlab/)
