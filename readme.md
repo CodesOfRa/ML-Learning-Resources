@@ -15,6 +15,9 @@ Free resources
 - [Machine Learning tips and tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html)
 - [Machine Learning - Tom M. Mitchell](https://www.cs.ubbcluj.ro/~gabis/ml/ml-books/McGrawHill%20-%20Machine%20Learning%20-Tom%20Mitchell.pdf)
 
+## Python
+- [Visual Numpy](https://jalammar.github.io/visual-numpy/)
+
 ## Combined
 - [Mix of recources for data science, statistics, and machine learning](https://sgfin.github.io/learning-resources/)
 ## Learning Tools
