@@ -17,6 +17,7 @@ Free resources
 
 ## Python
 - [Visual Numpy](https://jalammar.github.io/visual-numpy/)
+- [Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 
 ## Combined
 - [Mix of recources for data science, statistics, and machine learning](https://sgfin.github.io/learning-resources/)
